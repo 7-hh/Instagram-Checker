@@ -1,0 +1,10 @@
+openai==0.28.1
+requests==2.31.0
+rich==13.7.0
+user-agent==0.1.10
+pyTelegramBotAPI==4.14.0
+colorama==0.4.6
+urllib3==2.0.7
+certifi==2023.7.22
+charset-normalizer==3.3.2
+idna==3.4
